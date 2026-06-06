@@ -12,9 +12,7 @@ Each lab is documented as a validated engineering case note focused on observabl
 
 ## Lab Series
 
-### Lab 1 – Building a Hybrid AI Infrastructure with Local and Cloud Models
-
-View Lab 1
+- [Lab 1 – Building a Hybrid AI Infrastructure with Local and Cloud Models](Building-a-Hybrid-AI-Infrastructure-with-Local-and-Cloud-Models/)
 
 The foundation of the series. Establishes a unified AI platform integrating local inference and cloud AI providers through a common access layer with desktop and mobile interfaces. Network segmentation and security controls are implemented before AI services are introduced.
 
