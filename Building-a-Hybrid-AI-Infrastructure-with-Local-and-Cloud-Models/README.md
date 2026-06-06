@@ -4,7 +4,7 @@
 ![Mattermost AI Control Plane](desktop-mattermost-openai.png)
 ![Mobile AI Access](mobile-mattermost-claude.png)
 
-# Lab 1 – Building a Hybrid AI Infrastructure with Local and Cloud Models
+# Lab – Building a Hybrid AI Infrastructure with Local and Cloud Models
 
 ## Overview
 
